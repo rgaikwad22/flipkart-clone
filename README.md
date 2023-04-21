@@ -1,1 +1,1 @@
-flipkart-clone-vert-beta.vercel.app
+https://flipkart-clone-rgaikwad22.vercel.app/
